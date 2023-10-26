@@ -2,9 +2,9 @@
 
 ## Requirements
 
-qutip 
+- qutip 
 
-qgrad :  https://github.com/qgrad/qgrad/tree/master
+- qgrad :  https://github.com/qgrad/qgrad/tree/master
 
 ## About
 
