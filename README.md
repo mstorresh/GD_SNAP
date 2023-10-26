@@ -5,6 +5,7 @@
 - qutip 
 
 - qgrad :  https://github.com/qgrad/qgrad/tree/master
+- Jax
 
 ## About
 
